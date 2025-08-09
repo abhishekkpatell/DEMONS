@@ -1,0 +1,401 @@
+job_title,description,category
+DevOps Engineer - Lead,"DevOps Engineer role. Required: Kubernetes, monitoring, Docker. Responsibilities: write tests, collaborate with team. Experience required: 7 years.",DevOps Engineer
+ML Engineer - Senior,"ML Engineer role. Required: TensorFlow, PyTorch, model deployment. Responsibilities: deploy services, write tests. Experience required: 8 years.",ML Engineer
+Python Developer - II,"Python Developer role. Required: PostgreSQL, Flask, Django. Responsibilities: deploy services, optimize performance. Experience required: 9 years.",Python Developer
+SDE - Senior,"SDE role. Required: Java, REST APIs, Node.js. Responsibilities: collaborate with team, optimize performance. Experience required: 7 years.",SDE
+Python Developer - I,"Python Developer role. Required: Django, Python, REST. Responsibilities: implement features, write tests. Experience required: 4 years.",Python Developer
+SDE - Lead,"SDE role. Required: algorithms, data structures, system design. Responsibilities: optimize performance, optimize performance. Experience required: 7 years.",SDE
+Python Developer - Intern,"Python Developer role. Required: APIs, PostgreSQL, Django. Responsibilities: optimize performance, write tests. Experience required: 6 years.",Python Developer
+Frontend Engineer - II,"Frontend Engineer role. Required: React, UX, JavaScript. Responsibilities: optimize performance, write tests. Experience required: 10 years.",Frontend Engineer
+Frontend Engineer - Lead,"Frontend Engineer role. Required: TypeScript, HTML, JavaScript. Responsibilities: deploy services, deploy services. Experience required: 2 years.",Frontend Engineer
+DevOps Engineer - Intern,"DevOps Engineer role. Required: monitoring, CI/CD, infrastructure. Responsibilities: deploy services, deploy services. Experience required: 1 years.",DevOps Engineer
+SDE - I,"SDE role. Required: REST APIs, C++, Spring. Responsibilities: collaborate with team, collaborate with team. Experience required: 1 years.",SDE
+ML Engineer - Intern,"ML Engineer role. Required: ML pipelines, feature engineering, model deployment. Responsibilities: optimize performance, write tests. Experience required: 1 years.",ML Engineer
+QA Engineer - Intern,"QA Engineer role. Required: bug tracking, testing, test automation. Responsibilities: collaborate with team, implement features. Experience required: 3 years.",QA Engineer
+Data Analyst - Senior,"Data Analyst role. Required: reporting, BI, Tableau. Responsibilities: collaborate with team, implement features. Experience required: 10 years.",Data Analyst
+Data Scientist - Lead,"Data Scientist role. Required: SQL, pandas, R. Responsibilities: optimize performance, deploy services. Experience required: 7 years.",Data Scientist
+DevOps Engineer - Intern,"DevOps Engineer role. Required: monitoring, Kubernetes, Docker. Responsibilities: collaborate with team, collaborate with team. Experience required: 6 years.",DevOps Engineer
+Python Developer - II,"Python Developer role. Required: REST, Flask, Python. Responsibilities: optimize performance, optimize performance. Experience required: 4 years.",Python Developer
+Frontend Engineer - Senior,"Frontend Engineer role. Required: UI, TypeScript, UX. Responsibilities: implement features, implement features. Experience required: 9 years.",Frontend Engineer
+Python Developer - Intern,"Python Developer role. Required: PostgreSQL, REST, Django. Responsibilities: collaborate with team, implement features. Experience required: 5 years.",Python Developer
+SDE - Senior,"SDE role. Required: REST APIs, Node.js, system design. Responsibilities: implement features, write tests. Experience required: 4 years.",SDE
+Python Developer - II,"Python Developer role. Required: PostgreSQL, Django, REST. Responsibilities: implement features, collaborate with team. Experience required: 1 years.",Python Developer
+Data Scientist - II,"Data Scientist role. Required: pandas, scikit-learn, Python. Responsibilities: collaborate with team, write tests. Experience required: 5 years.",Data Scientist
+Python Developer - II,"Python Developer role. Required: Python, Django, APIs. Responsibilities: collaborate with team, implement features. Experience required: 6 years.",Python Developer
+QA Engineer - Intern,"QA Engineer role. Required: testing, Selenium, bug tracking. Responsibilities: collaborate with team, implement features. Experience required: 9 years.",QA Engineer
+Python Developer - Senior,"Python Developer role. Required: Python, Django, REST. Responsibilities: collaborate with team, write tests. Experience required: 3 years.",Python Developer
+DevOps Engineer - Senior,"DevOps Engineer role. Required: CI/CD, Kubernetes, infrastructure. Responsibilities: write tests, implement features. Experience required: 9 years.",DevOps Engineer
+SDE - II,"SDE role. Required: Java, system design, data structures. Responsibilities: write tests, implement features. Experience required: 4 years.",SDE
+Python Developer - I,"Python Developer role. Required: APIs, Flask, PostgreSQL. Responsibilities: deploy services, deploy services. Experience required: 7 years.",Python Developer
+SDE - I,"SDE role. Required: Java, REST APIs, C++. Responsibilities: implement features, optimize performance. Experience required: 1 years.",SDE
+QA Engineer - Lead,"QA Engineer role. Required: testing, bug tracking, Selenium. Responsibilities: implement features, collaborate with team. Experience required: 9 years.",QA Engineer
+Data Analyst - II,"Data Analyst role. Required: Tableau, SQL, reporting. Responsibilities: deploy services, implement features. Experience required: 4 years.",Data Analyst
+SDE - Lead,"SDE role. Required: C++, Node.js, algorithms. Responsibilities: implement features, implement features. Experience required: 3 years.",SDE
+Frontend Engineer - Intern,"Frontend Engineer role. Required: CSS, React, JavaScript. Responsibilities: implement features, optimize performance. Experience required: 1 years.",Frontend Engineer
+Data Analyst - Lead,"Data Analyst role. Required: SQL, Excel, BI. Responsibilities: implement features, implement features. Experience required: 5 years.",Data Analyst
+Frontend Engineer - Senior,"Frontend Engineer role. Required: JavaScript, HTML, UI. Responsibilities: deploy services, collaborate with team. Experience required: 1 years.",Frontend Engineer
+Python Developer - Intern,"Python Developer role. Required: PostgreSQL, Django, Flask. Responsibilities: write tests, implement features. Experience required: 10 years.",Python Developer
+DevOps Engineer - II,"DevOps Engineer role. Required: Docker, infrastructure, monitoring. Responsibilities: write tests, collaborate with team. Experience required: 10 years.",DevOps Engineer
+Data Scientist - II,"Data Scientist role. Required: visualization, statistics, pandas. Responsibilities: deploy services, write tests. Experience required: 7 years.",Data Scientist
+Data Scientist - Senior,"Data Scientist role. Required: scikit-learn, SQL, R. Responsibilities: implement features, optimize performance. Experience required: 4 years.",Data Scientist
+SDE - Lead,"SDE role. Required: REST APIs, Java, Node.js. Responsibilities: collaborate with team, implement features. Experience required: 10 years.",SDE
+DevOps Engineer - Intern,"DevOps Engineer role. Required: CI/CD, Docker, AWS. Responsibilities: optimize performance, write tests. Experience required: 6 years.",DevOps Engineer
+DevOps Engineer - Senior,"DevOps Engineer role. Required: CI/CD, Kubernetes, monitoring. Responsibilities: optimize performance, optimize performance. Experience required: 5 years.",DevOps Engineer
+DevOps Engineer - Lead,"DevOps Engineer role. Required: CI/CD, Docker, Kubernetes. Responsibilities: collaborate with team, optimize performance. Experience required: 2 years.",DevOps Engineer
+Python Developer - II,"Python Developer role. Required: Django, REST, APIs. Responsibilities: optimize performance, write tests. Experience required: 7 years.",Python Developer
+Data Scientist - Intern,"Data Scientist role. Required: R, scikit-learn, SQL. Responsibilities: write tests, write tests. Experience required: 1 years.",Data Scientist
+DevOps Engineer - II,"DevOps Engineer role. Required: Kubernetes, CI/CD, infrastructure. Responsibilities: implement features, deploy services. Experience required: 7 years.",DevOps Engineer
+QA Engineer - Intern,"QA Engineer role. Required: testing, test automation, unit tests. Responsibilities: write tests, collaborate with team. Experience required: 5 years.",QA Engineer
+Frontend Engineer - I,"Frontend Engineer role. Required: JavaScript, UX, HTML. Responsibilities: optimize performance, deploy services. Experience required: 10 years.",Frontend Engineer
+Data Scientist - Intern,"Data Scientist role. Required: scikit-learn, visualization, SQL. Responsibilities: write tests, write tests. Experience required: 6 years.",Data Scientist
+Data Analyst - Lead,"Data Analyst role. Required: SQL, data cleaning, BI. Responsibilities: collaborate with team, write tests. Experience required: 1 years.",Data Analyst
+QA Engineer - Intern,"QA Engineer role. Required: testing, test automation, Selenium. Responsibilities: implement features, optimize performance. Experience required: 4 years.",QA Engineer
+QA Engineer - Lead,"QA Engineer role. Required: bug tracking, unit tests, testing. Responsibilities: deploy services, collaborate with team. Experience required: 5 years.",QA Engineer
+Python Developer - Senior,"Python Developer role. Required: Flask, APIs, Django. Responsibilities: optimize performance, deploy services. Experience required: 2 years.",Python Developer
+Data Analyst - Senior,"Data Analyst role. Required: reporting, BI, SQL. Responsibilities: deploy services, write tests. Experience required: 10 years.",Data Analyst
+Data Scientist - II,"Data Scientist role. Required: R, visualization, SQL. Responsibilities: deploy services, collaborate with team. Experience required: 8 years.",Data Scientist
+Python Developer - I,"Python Developer role. Required: Flask, REST, Django. Responsibilities: implement features, collaborate with team. Experience required: 1 years.",Python Developer
+ML Engineer - Lead,"ML Engineer role. Required: ML pipelines, Docker, feature engineering. Responsibilities: deploy services, optimize performance. Experience required: 1 years.",ML Engineer
+DevOps Engineer - Intern,"DevOps Engineer role. Required: infrastructure, AWS, Kubernetes. Responsibilities: implement features, optimize performance. Experience required: 9 years.",DevOps Engineer
+Frontend Engineer - Intern,"Frontend Engineer role. Required: JavaScript, UI, TypeScript. Responsibilities: collaborate with team, optimize performance. Experience required: 9 years.",Frontend Engineer
+DevOps Engineer - Lead,"DevOps Engineer role. Required: infrastructure, Docker, Kubernetes. Responsibilities: deploy services, deploy services. Experience required: 3 years.",DevOps Engineer
+Python Developer - I,"Python Developer role. Required: Django, APIs, PostgreSQL. Responsibilities: implement features, deploy services. Experience required: 5 years.",Python Developer
+Data Scientist - II,"Data Scientist role. Required: visualization, statistics, scikit-learn. Responsibilities: deploy services, collaborate with team. Experience required: 2 years.",Data Scientist
+DevOps Engineer - Lead,"DevOps Engineer role. Required: AWS, CI/CD, monitoring. Responsibilities: deploy services, write tests. Experience required: 9 years.",DevOps Engineer
+Data Scientist - Senior,"Data Scientist role. Required: scikit-learn, SQL, statistics. Responsibilities: collaborate with team, deploy services. Experience required: 1 years.",Data Scientist
+Frontend Engineer - Lead,"Frontend Engineer role. Required: UI, HTML, JavaScript. Responsibilities: collaborate with team, deploy services. Experience required: 6 years.",Frontend Engineer
+DevOps Engineer - Senior,"DevOps Engineer role. Required: Docker, infrastructure, AWS. Responsibilities: collaborate with team, deploy services. Experience required: 2 years.",DevOps Engineer
+Python Developer - II,"Python Developer role. Required: Django, Flask, Python. Responsibilities: implement features, implement features. Experience required: 3 years.",Python Developer
+Data Analyst - Lead,"Data Analyst role. Required: Excel, reporting, data cleaning. Responsibilities: implement features, deploy services. Experience required: 6 years.",Data Analyst
+Data Scientist - Lead,"Data Scientist role. Required: statistics, pandas, Python. Responsibilities: deploy services, collaborate with team. Experience required: 5 years.",Data Scientist
+Python Developer - Senior,"Python Developer role. Required: PostgreSQL, APIs, Django. Responsibilities: implement features, implement features. Experience required: 1 years.",Python Developer
+Data Analyst - Senior,"Data Analyst role. Required: BI, data cleaning, Excel. Responsibilities: optimize performance, optimize performance. Experience required: 5 years.",Data Analyst
+QA Engineer - II,"QA Engineer role. Required: testing, Selenium, test automation. Responsibilities: write tests, optimize performance. Experience required: 2 years.",QA Engineer
+Python Developer - Lead,"Python Developer role. Required: PostgreSQL, Django, Flask. Responsibilities: implement features, implement features. Experience required: 1 years.",Python Developer
+Data Analyst - Lead,"Data Analyst role. Required: Excel, Tableau, SQL. Responsibilities: collaborate with team, deploy services. Experience required: 6 years.",Data Analyst
+Data Scientist - Senior,"Data Scientist role. Required: SQL, scikit-learn, statistics. Responsibilities: collaborate with team, deploy services. Experience required: 5 years.",Data Scientist
+DevOps Engineer - I,"DevOps Engineer role. Required: AWS, infrastructure, CI/CD. Responsibilities: collaborate with team, deploy services. Experience required: 10 years.",DevOps Engineer
+DevOps Engineer - I,"DevOps Engineer role. Required: Kubernetes, AWS, Docker. Responsibilities: implement features, write tests. Experience required: 9 years.",DevOps Engineer
+ML Engineer - I,"ML Engineer role. Required: PyTorch, model deployment, Docker. Responsibilities: deploy services, collaborate with team. Experience required: 5 years.",ML Engineer
+DevOps Engineer - Intern,"DevOps Engineer role. Required: CI/CD, Docker, AWS. Responsibilities: implement features, deploy services. Experience required: 9 years.",DevOps Engineer
+Frontend Engineer - I,"Frontend Engineer role. Required: UX, React, JavaScript. Responsibilities: implement features, write tests. Experience required: 8 years.",Frontend Engineer
+DevOps Engineer - II,"DevOps Engineer role. Required: CI/CD, Docker, AWS. Responsibilities: collaborate with team, write tests. Experience required: 1 years.",DevOps Engineer
+Frontend Engineer - Lead,"Frontend Engineer role. Required: UX, JavaScript, CSS. Responsibilities: deploy services, deploy services. Experience required: 2 years.",Frontend Engineer
+ML Engineer - Senior,"ML Engineer role. Required: TensorFlow, model deployment, ML pipelines. Responsibilities: write tests, write tests. Experience required: 3 years.",ML Engineer
+DevOps Engineer - II,"DevOps Engineer role. Required: CI/CD, monitoring, infrastructure. Responsibilities: optimize performance, write tests. Experience required: 3 years.",DevOps Engineer
+SDE - Intern,"SDE role. Required: algorithms, Spring, Node.js. Responsibilities: optimize performance, deploy services. Experience required: 2 years.",SDE
+Frontend Engineer - Intern,"Frontend Engineer role. Required: UX, React, CSS. Responsibilities: implement features, collaborate with team. Experience required: 6 years.",Frontend Engineer
+QA Engineer - Lead,"QA Engineer role. Required: test automation, Selenium, testing. Responsibilities: collaborate with team, collaborate with team. Experience required: 2 years.",QA Engineer
+Data Analyst - II,"Data Analyst role. Required: data cleaning, Excel, reporting. Responsibilities: optimize performance, write tests. Experience required: 6 years.",Data Analyst
+Data Analyst - I,"Data Analyst role. Required: BI, Tableau, Excel. Responsibilities: write tests, implement features. Experience required: 10 years.",Data Analyst
+Data Analyst - Senior,"Data Analyst role. Required: data cleaning, reporting, Tableau. Responsibilities: collaborate with team, deploy services. Experience required: 1 years.",Data Analyst
+Data Scientist - Lead,"Data Scientist role. Required: pandas, statistics, visualization. Responsibilities: write tests, optimize performance. Experience required: 7 years.",Data Scientist
+Frontend Engineer - II,"Frontend Engineer role. Required: UI, React, UX. Responsibilities: collaborate with team, collaborate with team. Experience required: 2 years.",Frontend Engineer
+Data Scientist - Senior,"Data Scientist role. Required: R, SQL, pandas. Responsibilities: implement features, implement features. Experience required: 7 years.",Data Scientist
+Frontend Engineer - II,"Frontend Engineer role. Required: HTML, JavaScript, UX. Responsibilities: implement features, optimize performance. Experience required: 10 years.",Frontend Engineer
+ML Engineer - I,"ML Engineer role. Required: TensorFlow, Docker, feature engineering. Responsibilities: write tests, implement features. Experience required: 3 years.",ML Engineer
+Data Scientist - I,"Data Scientist role. Required: scikit-learn, Python, R. Responsibilities: collaborate with team, deploy services. Experience required: 6 years.",Data Scientist
+Data Analyst - I,"Data Analyst role. Required: Tableau, reporting, BI. Responsibilities: optimize performance, collaborate with team. Experience required: 8 years.",Data Analyst
+DevOps Engineer - I,"DevOps Engineer role. Required: AWS, Kubernetes, Docker. Responsibilities: write tests, optimize performance. Experience required: 4 years.",DevOps Engineer
+DevOps Engineer - I,"DevOps Engineer role. Required: infrastructure, AWS, Docker. Responsibilities: collaborate with team, write tests. Experience required: 3 years.",DevOps Engineer
+Data Analyst - Lead,"Data Analyst role. Required: SQL, reporting, Tableau. Responsibilities: implement features, optimize performance. Experience required: 1 years.",Data Analyst
+Python Developer - I,"Python Developer role. Required: REST, Python, Flask. Responsibilities: optimize performance, deploy services. Experience required: 3 years.",Python Developer
+SDE - II,"SDE role. Required: algorithms, Java, REST APIs. Responsibilities: write tests, optimize performance. Experience required: 1 years.",SDE
+DevOps Engineer - Intern,"DevOps Engineer role. Required: Kubernetes, AWS, CI/CD. Responsibilities: collaborate with team, implement features. Experience required: 5 years.",DevOps Engineer
+Frontend Engineer - Lead,"Frontend Engineer role. Required: UI, React, HTML. Responsibilities: write tests, optimize performance. Experience required: 3 years.",Frontend Engineer
+ML Engineer - I,"ML Engineer role. Required: model deployment, PyTorch, TensorFlow. Responsibilities: collaborate with team, implement features. Experience required: 5 years.",ML Engineer
+Frontend Engineer - Lead,"Frontend Engineer role. Required: JavaScript, UX, CSS. Responsibilities: collaborate with team, write tests. Experience required: 4 years.",Frontend Engineer
+SDE - Intern,"SDE role. Required: system design, data structures, REST APIs. Responsibilities: implement features, implement features. Experience required: 1 years.",SDE
+SDE - II,"SDE role. Required: Spring, Java, data structures. Responsibilities: collaborate with team, write tests. Experience required: 4 years.",SDE
+DevOps Engineer - Intern,"DevOps Engineer role. Required: infrastructure, monitoring, CI/CD. Responsibilities: optimize performance, deploy services. Experience required: 6 years.",DevOps Engineer
+SDE - I,"SDE role. Required: Spring, REST APIs, data structures. Responsibilities: write tests, deploy services. Experience required: 10 years.",SDE
+SDE - Intern,"SDE role. Required: C++, Java, algorithms. Responsibilities: deploy services, deploy services. Experience required: 4 years.",SDE
+Python Developer - Intern,"Python Developer role. Required: PostgreSQL, Python, REST. Responsibilities: optimize performance, optimize performance. Experience required: 10 years.",Python Developer
+ML Engineer - Senior,"ML Engineer role. Required: TensorFlow, Docker, PyTorch. Responsibilities: write tests, collaborate with team. Experience required: 10 years.",ML Engineer
+Data Analyst - II,"Data Analyst role. Required: data cleaning, Excel, reporting. Responsibilities: optimize performance, optimize performance. Experience required: 4 years.",Data Analyst
+Data Analyst - Intern,"Data Analyst role. Required: data cleaning, BI, Tableau. Responsibilities: implement features, collaborate with team. Experience required: 8 years.",Data Analyst
+SDE - Senior,"SDE role. Required: data structures, algorithms, C++. Responsibilities: optimize performance, implement features. Experience required: 1 years.",SDE
+DevOps Engineer - Senior,"DevOps Engineer role. Required: CI/CD, Kubernetes, AWS. Responsibilities: optimize performance, implement features. Experience required: 5 years.",DevOps Engineer
+Data Scientist - I,"Data Scientist role. Required: visualization, SQL, R. Responsibilities: write tests, write tests. Experience required: 2 years.",Data Scientist
+ML Engineer - I,"ML Engineer role. Required: PyTorch, TensorFlow, ML pipelines. Responsibilities: implement features, optimize performance. Experience required: 6 years.",ML Engineer
+Data Analyst - I,"Data Analyst role. Required: BI, Excel, reporting. Responsibilities: write tests, optimize performance. Experience required: 2 years.",Data Analyst
+Data Analyst - I,"Data Analyst role. Required: Tableau, Excel, data cleaning. Responsibilities: optimize performance, deploy services. Experience required: 8 years.",Data Analyst
+SDE - I,"SDE role. Required: Java, C++, data structures. Responsibilities: deploy services, implement features. Experience required: 8 years.",SDE
+ML Engineer - II,"ML Engineer role. Required: Docker, feature engineering, PyTorch. Responsibilities: optimize performance, implement features. Experience required: 2 years.",ML Engineer
+Frontend Engineer - Senior,"Frontend Engineer role. Required: JavaScript, HTML, TypeScript. Responsibilities: collaborate with team, write tests. Experience required: 10 years.",Frontend Engineer
+ML Engineer - II,"ML Engineer role. Required: ML pipelines, PyTorch, Docker. Responsibilities: write tests, deploy services. Experience required: 8 years.",ML Engineer
+SDE - I,"SDE role. Required: REST APIs, Java, C++. Responsibilities: deploy services, collaborate with team. Experience required: 3 years.",SDE
+SDE - Lead,"SDE role. Required: system design, Node.js, Java. Responsibilities: deploy services, write tests. Experience required: 7 years.",SDE
+Data Scientist - I,"Data Scientist role. Required: pandas, SQL, Python. Responsibilities: optimize performance, deploy services. Experience required: 2 years.",Data Scientist
+Data Scientist - I,"Data Scientist role. Required: SQL, Python, pandas. Responsibilities: write tests, collaborate with team. Experience required: 7 years.",Data Scientist
+DevOps Engineer - Lead,"DevOps Engineer role. Required: monitoring, CI/CD, Kubernetes. Responsibilities: implement features, write tests. Experience required: 5 years.",DevOps Engineer
+Python Developer - Senior,"Python Developer role. Required: Flask, PostgreSQL, Python. Responsibilities: collaborate with team, implement features. Experience required: 2 years.",Python Developer
+ML Engineer - I,"ML Engineer role. Required: model deployment, ML pipelines, PyTorch. Responsibilities: implement features, implement features. Experience required: 6 years.",ML Engineer
+Frontend Engineer - Senior,"Frontend Engineer role. Required: UX, HTML, React. Responsibilities: write tests, deploy services. Experience required: 6 years.",Frontend Engineer
+Data Scientist - Intern,"Data Scientist role. Required: scikit-learn, visualization, SQL. Responsibilities: deploy services, implement features. Experience required: 6 years.",Data Scientist
+Data Scientist - Lead,"Data Scientist role. Required: statistics, scikit-learn, Python. Responsibilities: implement features, collaborate with team. Experience required: 8 years.",Data Scientist
+Data Scientist - Lead,"Data Scientist role. Required: statistics, SQL, pandas. Responsibilities: implement features, write tests. Experience required: 5 years.",Data Scientist
+Python Developer - II,"Python Developer role. Required: Flask, Python, APIs. Responsibilities: implement features, collaborate with team. Experience required: 5 years.",Python Developer
+Python Developer - Senior,"Python Developer role. Required: REST, PostgreSQL, Flask. Responsibilities: collaborate with team, optimize performance. Experience required: 1 years.",Python Developer
+ML Engineer - Senior,"ML Engineer role. Required: TensorFlow, ML pipelines, feature engineering. Responsibilities: deploy services, implement features. Experience required: 10 years.",ML Engineer
+Python Developer - Lead,"Python Developer role. Required: Django, Python, APIs. Responsibilities: collaborate with team, deploy services. Experience required: 2 years.",Python Developer
+SDE - II,"SDE role. Required: Node.js, algorithms, Spring. Responsibilities: implement features, deploy services. Experience required: 8 years.",SDE
+Data Scientist - I,"Data Scientist role. Required: visualization, statistics, Python. Responsibilities: optimize performance, collaborate with team. Experience required: 6 years.",Data Scientist
+Data Scientist - Lead,"Data Scientist role. Required: pandas, Python, SQL. Responsibilities: deploy services, implement features. Experience required: 10 years.",Data Scientist
+SDE - I,"SDE role. Required: C++, Java, system design. Responsibilities: implement features, deploy services. Experience required: 6 years.",SDE
+QA Engineer - I,"QA Engineer role. Required: bug tracking, unit tests, Selenium. Responsibilities: write tests, implement features. Experience required: 10 years.",QA Engineer
+DevOps Engineer - II,"DevOps Engineer role. Required: AWS, CI/CD, infrastructure. Responsibilities: deploy services, implement features. Experience required: 3 years.",DevOps Engineer
+QA Engineer - II,"QA Engineer role. Required: unit tests, test automation, testing. Responsibilities: optimize performance, collaborate with team. Experience required: 2 years.",QA Engineer
+ML Engineer - II,"ML Engineer role. Required: ML pipelines, PyTorch, Docker. Responsibilities: collaborate with team, deploy services. Experience required: 8 years.",ML Engineer
+Data Scientist - Lead,"Data Scientist role. Required: scikit-learn, visualization, pandas. Responsibilities: deploy services, write tests. Experience required: 1 years.",Data Scientist
+QA Engineer - Intern,"QA Engineer role. Required: testing, Selenium, bug tracking. Responsibilities: collaborate with team, write tests. Experience required: 2 years.",QA Engineer
+Frontend Engineer - Senior,"Frontend Engineer role. Required: CSS, React, HTML. Responsibilities: optimize performance, deploy services. Experience required: 1 years.",Frontend Engineer
+Data Analyst - Intern,"Data Analyst role. Required: Excel, data cleaning, Tableau. Responsibilities: write tests, implement features. Experience required: 7 years.",Data Analyst
+Python Developer - Intern,"Python Developer role. Required: REST, Django, APIs. Responsibilities: write tests, optimize performance. Experience required: 2 years.",Python Developer
+Frontend Engineer - Intern,"Frontend Engineer role. Required: CSS, UI, HTML. Responsibilities: implement features, implement features. Experience required: 8 years.",Frontend Engineer
+Python Developer - Lead,"Python Developer role. Required: APIs, PostgreSQL, REST. Responsibilities: collaborate with team, optimize performance. Experience required: 6 years.",Python Developer
+DevOps Engineer - Senior,"DevOps Engineer role. Required: AWS, CI/CD, Docker. Responsibilities: optimize performance, optimize performance. Experience required: 8 years.",DevOps Engineer
+Python Developer - Intern,"Python Developer role. Required: REST, Django, Python. Responsibilities: write tests, collaborate with team. Experience required: 2 years.",Python Developer
+SDE - II,"SDE role. Required: system design, Spring, REST APIs. Responsibilities: deploy services, implement features. Experience required: 9 years.",SDE
+ML Engineer - Lead,"ML Engineer role. Required: feature engineering, Docker, model deployment. Responsibilities: collaborate with team, write tests. Experience required: 2 years.",ML Engineer
+Frontend Engineer - I,"Frontend Engineer role. Required: JavaScript, UI, React. Responsibilities: implement features, implement features. Experience required: 4 years.",Frontend Engineer
+Frontend Engineer - Intern,"Frontend Engineer role. Required: UX, TypeScript, UI. Responsibilities: optimize performance, deploy services. Experience required: 9 years.",Frontend Engineer
+ML Engineer - I,"ML Engineer role. Required: ML pipelines, model deployment, TensorFlow. Responsibilities: implement features, deploy services. Experience required: 2 years.",ML Engineer
+QA Engineer - Lead,"QA Engineer role. Required: unit tests, bug tracking, test automation. Responsibilities: deploy services, optimize performance. Experience required: 5 years.",QA Engineer
+Data Analyst - I,"Data Analyst role. Required: Tableau, SQL, BI. Responsibilities: collaborate with team, write tests. Experience required: 3 years.",Data Analyst
+QA Engineer - II,"QA Engineer role. Required: test automation, bug tracking, unit tests. Responsibilities: collaborate with team, optimize performance. Experience required: 1 years.",QA Engineer
+ML Engineer - Senior,"ML Engineer role. Required: PyTorch, feature engineering, Docker. Responsibilities: deploy services, write tests. Experience required: 4 years.",ML Engineer
+DevOps Engineer - Senior,"DevOps Engineer role. Required: Kubernetes, infrastructure, Docker. Responsibilities: deploy services, write tests. Experience required: 9 years.",DevOps Engineer
+ML Engineer - II,"ML Engineer role. Required: ML pipelines, feature engineering, Docker. Responsibilities: write tests, optimize performance. Experience required: 2 years.",ML Engineer
+Frontend Engineer - Intern,"Frontend Engineer role. Required: HTML, UX, React. Responsibilities: collaborate with team, implement features. Experience required: 9 years.",Frontend Engineer
+SDE - II,"SDE role. Required: Java, Node.js, Spring. Responsibilities: implement features, write tests. Experience required: 5 years.",SDE
+Data Analyst - Lead,"Data Analyst role. Required: SQL, data cleaning, Tableau. Responsibilities: implement features, optimize performance. Experience required: 6 years.",Data Analyst
+SDE - II,"SDE role. Required: Spring, system design, algorithms. Responsibilities: write tests, deploy services. Experience required: 4 years.",SDE
+ML Engineer - Senior,"ML Engineer role. Required: PyTorch, TensorFlow, model deployment. Responsibilities: collaborate with team, implement features. Experience required: 6 years.",ML Engineer
+DevOps Engineer - Senior,"DevOps Engineer role. Required: Docker, AWS, infrastructure. Responsibilities: write tests, deploy services. Experience required: 4 years.",DevOps Engineer
+SDE - Senior,"SDE role. Required: data structures, Spring, C++. Responsibilities: optimize performance, collaborate with team. Experience required: 3 years.",SDE
+SDE - Lead,"SDE role. Required: C++, Spring, Java. Responsibilities: optimize performance, collaborate with team. Experience required: 9 years.",SDE
+Data Analyst - Senior,"Data Analyst role. Required: BI, data cleaning, reporting. Responsibilities: write tests, deploy services. Experience required: 3 years.",Data Analyst
+QA Engineer - I,"QA Engineer role. Required: Selenium, bug tracking, test automation. Responsibilities: optimize performance, collaborate with team. Experience required: 8 years.",QA Engineer
+Python Developer - I,"Python Developer role. Required: Django, REST, Flask. Responsibilities: write tests, optimize performance. Experience required: 7 years.",Python Developer
+ML Engineer - Intern,"ML Engineer role. Required: model deployment, TensorFlow, PyTorch. Responsibilities: optimize performance, implement features. Experience required: 7 years.",ML Engineer
+SDE - Lead,"SDE role. Required: system design, C++, algorithms. Responsibilities: deploy services, deploy services. Experience required: 2 years.",SDE
+QA Engineer - Senior,"QA Engineer role. Required: Selenium, test automation, unit tests. Responsibilities: write tests, collaborate with team. Experience required: 9 years.",QA Engineer
+SDE - Lead,"SDE role. Required: C++, system design, Spring. Responsibilities: optimize performance, implement features. Experience required: 6 years.",SDE
+Frontend Engineer - Lead,"Frontend Engineer role. Required: UI, HTML, TypeScript. Responsibilities: implement features, write tests. Experience required: 1 years.",Frontend Engineer
+SDE - I,"SDE role. Required: Spring, algorithms, C++. Responsibilities: write tests, write tests. Experience required: 10 years.",SDE
+Data Scientist - II,"Data Scientist role. Required: R, visualization, scikit-learn. Responsibilities: collaborate with team, collaborate with team. Experience required: 6 years.",Data Scientist
+SDE - I,"SDE role. Required: REST APIs, algorithms, system design. Responsibilities: optimize performance, collaborate with team. Experience required: 7 years.",SDE
+ML Engineer - Lead,"ML Engineer role. Required: model deployment, TensorFlow, Docker. Responsibilities: collaborate with team, implement features. Experience required: 10 years.",ML Engineer
+Frontend Engineer - Senior,"Frontend Engineer role. Required: UX, TypeScript, React. Responsibilities: deploy services, collaborate with team. Experience required: 10 years.",Frontend Engineer
+ML Engineer - Lead,"ML Engineer role. Required: PyTorch, feature engineering, TensorFlow. Responsibilities: collaborate with team, optimize performance. Experience required: 2 years.",ML Engineer
+Frontend Engineer - II,"Frontend Engineer role. Required: JavaScript, UX, React. Responsibilities: collaborate with team, optimize performance. Experience required: 10 years.",Frontend Engineer
+ML Engineer - Senior,"ML Engineer role. Required: feature engineering, TensorFlow, model deployment. Responsibilities: implement features, optimize performance. Experience required: 1 years.",ML Engineer
+Frontend Engineer - Intern,"Frontend Engineer role. Required: HTML, UI, React. Responsibilities: optimize performance, optimize performance. Experience required: 4 years.",Frontend Engineer
+Python Developer - II,"Python Developer role. Required: APIs, Django, PostgreSQL. Responsibilities: write tests, deploy services. Experience required: 2 years.",Python Developer
+QA Engineer - Lead,"QA Engineer role. Required: testing, unit tests, bug tracking. Responsibilities: write tests, collaborate with team. Experience required: 3 years.",QA Engineer
+Data Scientist - Intern,"Data Scientist role. Required: R, SQL, Python. Responsibilities: implement features, collaborate with team. Experience required: 10 years.",Data Scientist
+QA Engineer - Lead,"QA Engineer role. Required: testing, Selenium, bug tracking. Responsibilities: write tests, deploy services. Experience required: 5 years.",QA Engineer
+Frontend Engineer - Intern,"Frontend Engineer role. Required: TypeScript, JavaScript, HTML. Responsibilities: implement features, optimize performance. Experience required: 2 years.",Frontend Engineer
+DevOps Engineer - I,"DevOps Engineer role. Required: monitoring, AWS, Kubernetes. Responsibilities: deploy services, deploy services. Experience required: 1 years.",DevOps Engineer
+QA Engineer - Lead,"QA Engineer role. Required: test automation, bug tracking, Selenium. Responsibilities: collaborate with team, write tests. Experience required: 3 years.",QA Engineer
+Frontend Engineer - II,"Frontend Engineer role. Required: UX, HTML, React. Responsibilities: deploy services, optimize performance. Experience required: 8 years.",Frontend Engineer
+ML Engineer - Lead,"ML Engineer role. Required: ML pipelines, model deployment, PyTorch. Responsibilities: optimize performance, implement features. Experience required: 5 years.",ML Engineer
+DevOps Engineer - Intern,"DevOps Engineer role. Required: CI/CD, Kubernetes, monitoring. Responsibilities: optimize performance, optimize performance. Experience required: 6 years.",DevOps Engineer
+Python Developer - Senior,"Python Developer role. Required: Python, Flask, PostgreSQL. Responsibilities: implement features, deploy services. Experience required: 4 years.",Python Developer
+Data Scientist - Intern,"Data Scientist role. Required: pandas, statistics, SQL. Responsibilities: implement features, implement features. Experience required: 3 years.",Data Scientist
+Frontend Engineer - Lead,"Frontend Engineer role. Required: UI, React, HTML. Responsibilities: write tests, implement features. Experience required: 2 years.",Frontend Engineer
+Data Analyst - I,"Data Analyst role. Required: SQL, reporting, data cleaning. Responsibilities: deploy services, optimize performance. Experience required: 2 years.",Data Analyst
+Data Scientist - Lead,"Data Scientist role. Required: statistics, SQL, scikit-learn. Responsibilities: deploy services, deploy services. Experience required: 6 years.",Data Scientist
+DevOps Engineer - II,"DevOps Engineer role. Required: monitoring, AWS, infrastructure. Responsibilities: write tests, write tests. Experience required: 1 years.",DevOps Engineer
+Data Scientist - I,"Data Scientist role. Required: R, SQL, visualization. Responsibilities: collaborate with team, deploy services. Experience required: 5 years.",Data Scientist
+SDE - II,"SDE role. Required: algorithms, Java, system design. Responsibilities: implement features, implement features. Experience required: 9 years.",SDE
+SDE - Intern,"SDE role. Required: data structures, REST APIs, C++. Responsibilities: optimize performance, collaborate with team. Experience required: 6 years.",SDE
+Data Scientist - II,"Data Scientist role. Required: pandas, statistics, R. Responsibilities: implement features, deploy services. Experience required: 1 years.",Data Scientist
+Python Developer - II,"Python Developer role. Required: Django, PostgreSQL, Python. Responsibilities: implement features, implement features. Experience required: 1 years.",Python Developer
+ML Engineer - Lead,"ML Engineer role. Required: TensorFlow, ML pipelines, feature engineering. Responsibilities: write tests, write tests. Experience required: 9 years.",ML Engineer
+ML Engineer - Intern,"ML Engineer role. Required: feature engineering, model deployment, TensorFlow. Responsibilities: write tests, implement features. Experience required: 5 years.",ML Engineer
+Data Scientist - Intern,"Data Scientist role. Required: Python, pandas, visualization. Responsibilities: write tests, optimize performance. Experience required: 5 years.",Data Scientist
+DevOps Engineer - Senior,"DevOps Engineer role. Required: monitoring, Kubernetes, Docker. Responsibilities: collaborate with team, collaborate with team. Experience required: 4 years.",DevOps Engineer
+Data Analyst - Intern,"Data Analyst role. Required: data cleaning, SQL, reporting. Responsibilities: optimize performance, deploy services. Experience required: 4 years.",Data Analyst
+Frontend Engineer - Senior,"Frontend Engineer role. Required: React, UX, JavaScript. Responsibilities: write tests, write tests. Experience required: 1 years.",Frontend Engineer
+Data Analyst - Lead,"Data Analyst role. Required: reporting, data cleaning, Tableau. Responsibilities: optimize performance, write tests. Experience required: 7 years.",Data Analyst
+Data Analyst - I,"Data Analyst role. Required: Tableau, SQL, reporting. Responsibilities: implement features, optimize performance. Experience required: 8 years.",Data Analyst
+Data Analyst - II,"Data Analyst role. Required: SQL, reporting, Excel. Responsibilities: deploy services, optimize performance. Experience required: 9 years.",Data Analyst
+Data Scientist - I,"Data Scientist role. Required: scikit-learn, visualization, statistics. Responsibilities: implement features, write tests. Experience required: 5 years.",Data Scientist
+Python Developer - II,"Python Developer role. Required: Python, Django, PostgreSQL. Responsibilities: implement features, write tests. Experience required: 3 years.",Python Developer
+Python Developer - II,"Python Developer role. Required: APIs, REST, Flask. Responsibilities: collaborate with team, optimize performance. Experience required: 2 years.",Python Developer
+SDE - Intern,"SDE role. Required: Node.js, C++, Spring. Responsibilities: collaborate with team, write tests. Experience required: 9 years.",SDE
+Frontend Engineer - Intern,"Frontend Engineer role. Required: CSS, UX, HTML. Responsibilities: deploy services, write tests. Experience required: 3 years.",Frontend Engineer
+Data Scientist - Intern,"Data Scientist role. Required: visualization, pandas, statistics. Responsibilities: optimize performance, collaborate with team. Experience required: 4 years.",Data Scientist
+Data Scientist - II,"Data Scientist role. Required: pandas, scikit-learn, Python. Responsibilities: optimize performance, collaborate with team. Experience required: 9 years.",Data Scientist
+QA Engineer - I,"QA Engineer role. Required: unit tests, bug tracking, testing. Responsibilities: optimize performance, deploy services. Experience required: 1 years.",QA Engineer
+Python Developer - II,"Python Developer role. Required: Python, Django, Flask. Responsibilities: deploy services, write tests. Experience required: 3 years.",Python Developer
+Frontend Engineer - Lead,"Frontend Engineer role. Required: React, UX, CSS. Responsibilities: optimize performance, write tests. Experience required: 6 years.",Frontend Engineer
+SDE - Senior,"SDE role. Required: Java, algorithms, Node.js. Responsibilities: write tests, optimize performance. Experience required: 5 years.",SDE
+Data Analyst - Intern,"Data Analyst role. Required: Tableau, BI, reporting. Responsibilities: optimize performance, implement features. Experience required: 8 years.",Data Analyst
+Python Developer - Senior,"Python Developer role. Required: Python, Django, REST. Responsibilities: deploy services, optimize performance. Experience required: 8 years.",Python Developer
+QA Engineer - Lead,"QA Engineer role. Required: Selenium, unit tests, test automation. Responsibilities: optimize performance, write tests. Experience required: 8 years.",QA Engineer
+DevOps Engineer - I,"DevOps Engineer role. Required: CI/CD, Docker, monitoring. Responsibilities: optimize performance, implement features. Experience required: 7 years.",DevOps Engineer
+Data Scientist - Intern,"Data Scientist role. Required: statistics, SQL, scikit-learn. Responsibilities: implement features, implement features. Experience required: 3 years.",Data Scientist
+Python Developer - II,"Python Developer role. Required: PostgreSQL, Python, APIs. Responsibilities: collaborate with team, optimize performance. Experience required: 5 years.",Python Developer
+Python Developer - II,"Python Developer role. Required: APIs, Flask, PostgreSQL. Responsibilities: deploy services, collaborate with team. Experience required: 8 years.",Python Developer
+Data Scientist - Senior,"Data Scientist role. Required: pandas, SQL, visualization. Responsibilities: write tests, collaborate with team. Experience required: 2 years.",Data Scientist
+ML Engineer - II,"ML Engineer role. Required: model deployment, TensorFlow, ML pipelines. Responsibilities: write tests, implement features. Experience required: 6 years.",ML Engineer
+SDE - Lead,"SDE role. Required: C++, Node.js, algorithms. Responsibilities: implement features, implement features. Experience required: 5 years.",SDE
+Data Scientist - Intern,"Data Scientist role. Required: SQL, R, visualization. Responsibilities: optimize performance, optimize performance. Experience required: 4 years.",Data Scientist
+Data Scientist - Intern,"Data Scientist role. Required: Python, R, pandas. Responsibilities: optimize performance, collaborate with team. Experience required: 3 years.",Data Scientist
+Data Analyst - Senior,"Data Analyst role. Required: reporting, Tableau, data cleaning. Responsibilities: collaborate with team, write tests. Experience required: 8 years.",Data Analyst
+DevOps Engineer - I,"DevOps Engineer role. Required: Kubernetes, AWS, infrastructure. Responsibilities: optimize performance, collaborate with team. Experience required: 7 years.",DevOps Engineer
+QA Engineer - Lead,"QA Engineer role. Required: bug tracking, test automation, Selenium. Responsibilities: implement features, deploy services. Experience required: 7 years.",QA Engineer
+Python Developer - Lead,"Python Developer role. Required: Flask, Python, Django. Responsibilities: write tests, deploy services. Experience required: 4 years.",Python Developer
+DevOps Engineer - Intern,"DevOps Engineer role. Required: Docker, infrastructure, Kubernetes. Responsibilities: deploy services, deploy services. Experience required: 6 years.",DevOps Engineer
+Data Analyst - II,"Data Analyst role. Required: reporting, data cleaning, Excel. Responsibilities: deploy services, write tests. Experience required: 7 years.",Data Analyst
+Data Scientist - Intern,"Data Scientist role. Required: scikit-learn, R, statistics. Responsibilities: deploy services, deploy services. Experience required: 2 years.",Data Scientist
+Data Analyst - Intern,"Data Analyst role. Required: BI, Excel, data cleaning. Responsibilities: collaborate with team, deploy services. Experience required: 4 years.",Data Analyst
+QA Engineer - Intern,"QA Engineer role. Required: testing, Selenium, unit tests. Responsibilities: optimize performance, write tests. Experience required: 8 years.",QA Engineer
+ML Engineer - I,"ML Engineer role. Required: Docker, model deployment, PyTorch. Responsibilities: deploy services, write tests. Experience required: 1 years.",ML Engineer
+SDE - I,"SDE role. Required: data structures, algorithms, system design. Responsibilities: write tests, write tests. Experience required: 10 years.",SDE
+QA Engineer - Lead,"QA Engineer role. Required: test automation, testing, Selenium. Responsibilities: write tests, collaborate with team. Experience required: 6 years.",QA Engineer
+QA Engineer - I,"QA Engineer role. Required: bug tracking, test automation, Selenium. Responsibilities: deploy services, collaborate with team. Experience required: 5 years.",QA Engineer
+QA Engineer - Lead,"QA Engineer role. Required: unit tests, test automation, bug tracking. Responsibilities: deploy services, implement features. Experience required: 7 years.",QA Engineer
+ML Engineer - I,"ML Engineer role. Required: TensorFlow, PyTorch, Docker. Responsibilities: implement features, deploy services. Experience required: 4 years.",ML Engineer
+Data Analyst - II,"Data Analyst role. Required: Excel, SQL, data cleaning. Responsibilities: collaborate with team, optimize performance. Experience required: 3 years.",Data Analyst
+ML Engineer - II,"ML Engineer role. Required: TensorFlow, model deployment, feature engineering. Responsibilities: write tests, optimize performance. Experience required: 1 years.",ML Engineer
+DevOps Engineer - I,"DevOps Engineer role. Required: AWS, monitoring, infrastructure. Responsibilities: implement features, optimize performance. Experience required: 4 years.",DevOps Engineer
+Frontend Engineer - I,"Frontend Engineer role. Required: CSS, UI, TypeScript. Responsibilities: write tests, write tests. Experience required: 5 years.",Frontend Engineer
+Python Developer - Lead,"Python Developer role. Required: REST, PostgreSQL, Python. Responsibilities: optimize performance, write tests. Experience required: 10 years.",Python Developer
+DevOps Engineer - I,"DevOps Engineer role. Required: AWS, monitoring, CI/CD. Responsibilities: optimize performance, write tests. Experience required: 9 years.",DevOps Engineer
+Data Scientist - Lead,"Data Scientist role. Required: Python, pandas, scikit-learn. Responsibilities: implement features, deploy services. Experience required: 3 years.",Data Scientist
+Data Scientist - I,"Data Scientist role. Required: scikit-learn, visualization, R. Responsibilities: deploy services, optimize performance. Experience required: 6 years.",Data Scientist
+Frontend Engineer - Senior,"Frontend Engineer role. Required: HTML, JavaScript, TypeScript. Responsibilities: write tests, deploy services. Experience required: 5 years.",Frontend Engineer
+DevOps Engineer - Lead,"DevOps Engineer role. Required: infrastructure, Docker, AWS. Responsibilities: optimize performance, deploy services. Experience required: 6 years.",DevOps Engineer
+ML Engineer - Intern,"ML Engineer role. Required: PyTorch, Docker, model deployment. Responsibilities: collaborate with team, deploy services. Experience required: 7 years.",ML Engineer
+Python Developer - I,"Python Developer role. Required: Flask, REST, Python. Responsibilities: deploy services, collaborate with team. Experience required: 1 years.",Python Developer
+Python Developer - Senior,"Python Developer role. Required: REST, APIs, Python. Responsibilities: deploy services, collaborate with team. Experience required: 2 years.",Python Developer
+SDE - Intern,"SDE role. Required: Node.js, algorithms, REST APIs. Responsibilities: optimize performance, implement features. Experience required: 9 years.",SDE
+Data Scientist - Intern,"Data Scientist role. Required: pandas, R, visualization. Responsibilities: collaborate with team, deploy services. Experience required: 10 years.",Data Scientist
+Python Developer - Intern,"Python Developer role. Required: Flask, Python, APIs. Responsibilities: write tests, deploy services. Experience required: 6 years.",Python Developer
+Data Analyst - Intern,"Data Analyst role. Required: BI, Tableau, SQL. Responsibilities: optimize performance, implement features. Experience required: 7 years.",Data Analyst
+DevOps Engineer - Lead,"DevOps Engineer role. Required: monitoring, Kubernetes, Docker. Responsibilities: write tests, optimize performance. Experience required: 4 years.",DevOps Engineer
+QA Engineer - II,"QA Engineer role. Required: testing, bug tracking, unit tests. Responsibilities: optimize performance, collaborate with team. Experience required: 1 years.",QA Engineer
+DevOps Engineer - Senior,"DevOps Engineer role. Required: Docker, CI/CD, Kubernetes. Responsibilities: deploy services, optimize performance. Experience required: 3 years.",DevOps Engineer
+QA Engineer - Intern,"QA Engineer role. Required: bug tracking, testing, Selenium. Responsibilities: implement features, write tests. Experience required: 4 years.",QA Engineer
+SDE - Senior,"SDE role. Required: REST APIs, system design, C++. Responsibilities: implement features, implement features. Experience required: 6 years.",SDE
+Python Developer - Lead,"Python Developer role. Required: Django, Python, APIs. Responsibilities: write tests, deploy services. Experience required: 9 years.",Python Developer
+Python Developer - Intern,"Python Developer role. Required: APIs, REST, Python. Responsibilities: implement features, deploy services. Experience required: 6 years.",Python Developer
+SDE - Senior,"SDE role. Required: Java, data structures, REST APIs. Responsibilities: write tests, collaborate with team. Experience required: 5 years.",SDE
+Data Analyst - Intern,"Data Analyst role. Required: BI, Tableau, Excel. Responsibilities: deploy services, optimize performance. Experience required: 6 years.",Data Analyst
+Data Scientist - Lead,"Data Scientist role. Required: visualization, R, statistics. Responsibilities: implement features, optimize performance. Experience required: 9 years.",Data Scientist
+DevOps Engineer - Lead,"DevOps Engineer role. Required: infrastructure, CI/CD, Kubernetes. Responsibilities: optimize performance, write tests. Experience required: 6 years.",DevOps Engineer
+Python Developer - Senior,"Python Developer role. Required: Flask, Python, APIs. Responsibilities: write tests, implement features. Experience required: 6 years.",Python Developer
+Python Developer - I,"Python Developer role. Required: Python, Django, Flask. Responsibilities: write tests, write tests. Experience required: 9 years.",Python Developer
+Data Analyst - Lead,"Data Analyst role. Required: data cleaning, BI, reporting. Responsibilities: write tests, collaborate with team. Experience required: 4 years.",Data Analyst
+QA Engineer - Intern,"QA Engineer role. Required: Selenium, testing, unit tests. Responsibilities: deploy services, write tests. Experience required: 5 years.",QA Engineer
+Data Scientist - Intern,"Data Scientist role. Required: SQL, R, Python. Responsibilities: collaborate with team, implement features. Experience required: 5 years.",Data Scientist
+QA Engineer - Lead,"QA Engineer role. Required: test automation, Selenium, unit tests. Responsibilities: write tests, deploy services. Experience required: 4 years.",QA Engineer
+DevOps Engineer - II,"DevOps Engineer role. Required: Kubernetes, CI/CD, AWS. Responsibilities: write tests, optimize performance. Experience required: 10 years.",DevOps Engineer
+ML Engineer - I,"ML Engineer role. Required: feature engineering, model deployment, PyTorch. Responsibilities: write tests, implement features. Experience required: 10 years.",ML Engineer
+Data Analyst - Intern,"Data Analyst role. Required: data cleaning, Tableau, reporting. Responsibilities: collaborate with team, deploy services. Experience required: 7 years.",Data Analyst
+Frontend Engineer - Lead,"Frontend Engineer role. Required: TypeScript, React, JavaScript. Responsibilities: collaborate with team, implement features. Experience required: 7 years.",Frontend Engineer
+Data Analyst - Lead,"Data Analyst role. Required: Tableau, SQL, data cleaning. Responsibilities: deploy services, optimize performance. Experience required: 9 years.",Data Analyst
+QA Engineer - II,"QA Engineer role. Required: bug tracking, Selenium, testing. Responsibilities: write tests, implement features. Experience required: 8 years.",QA Engineer
+Frontend Engineer - Senior,"Frontend Engineer role. Required: UI, TypeScript, HTML. Responsibilities: optimize performance, implement features. Experience required: 2 years.",Frontend Engineer
+ML Engineer - Senior,"ML Engineer role. Required: TensorFlow, feature engineering, PyTorch. Responsibilities: optimize performance, optimize performance. Experience required: 9 years.",ML Engineer
+Python Developer - Intern,"Python Developer role. Required: PostgreSQL, Django, REST. Responsibilities: write tests, write tests. Experience required: 4 years.",Python Developer
+Frontend Engineer - Lead,"Frontend Engineer role. Required: React, UX, CSS. Responsibilities: collaborate with team, implement features. Experience required: 1 years.",Frontend Engineer
+DevOps Engineer - Intern,"DevOps Engineer role. Required: monitoring, infrastructure, Kubernetes. Responsibilities: collaborate with team, implement features. Experience required: 7 years.",DevOps Engineer
+QA Engineer - I,"QA Engineer role. Required: test automation, unit tests, testing. Responsibilities: deploy services, write tests. Experience required: 4 years.",QA Engineer
+Python Developer - II,"Python Developer role. Required: Django, APIs, REST. Responsibilities: implement features, optimize performance. Experience required: 9 years.",Python Developer
+Python Developer - II,"Python Developer role. Required: REST, PostgreSQL, Python. Responsibilities: deploy services, implement features. Experience required: 4 years.",Python Developer
+Frontend Engineer - II,"Frontend Engineer role. Required: JavaScript, UX, React. Responsibilities: write tests, optimize performance. Experience required: 9 years.",Frontend Engineer
+Data Analyst - II,"Data Analyst role. Required: SQL, data cleaning, Excel. Responsibilities: deploy services, optimize performance. Experience required: 8 years.",Data Analyst
+Data Scientist - I,"Data Scientist role. Required: R, SQL, Python. Responsibilities: write tests, write tests. Experience required: 9 years.",Data Scientist
+DevOps Engineer - I,"DevOps Engineer role. Required: monitoring, Docker, Kubernetes. Responsibilities: collaborate with team, collaborate with team. Experience required: 1 years.",DevOps Engineer
+Python Developer - Intern,"Python Developer role. Required: APIs, Python, REST. Responsibilities: implement features, optimize performance. Experience required: 1 years.",Python Developer
+QA Engineer - Senior,"QA Engineer role. Required: bug tracking, Selenium, testing. Responsibilities: deploy services, collaborate with team. Experience required: 9 years.",QA Engineer
+Data Analyst - Intern,"Data Analyst role. Required: data cleaning, Tableau, SQL. Responsibilities: implement features, collaborate with team. Experience required: 2 years.",Data Analyst
+ML Engineer - I,"ML Engineer role. Required: PyTorch, TensorFlow, feature engineering. Responsibilities: collaborate with team, write tests. Experience required: 8 years.",ML Engineer
+Frontend Engineer - Lead,"Frontend Engineer role. Required: CSS, React, JavaScript. Responsibilities: collaborate with team, optimize performance. Experience required: 1 years.",Frontend Engineer
+SDE - II,"SDE role. Required: data structures, system design, C++. Responsibilities: collaborate with team, write tests. Experience required: 3 years.",SDE
+SDE - Lead,"SDE role. Required: C++, Spring, Node.js. Responsibilities: optimize performance, collaborate with team. Experience required: 4 years.",SDE
+Frontend Engineer - Intern,"Frontend Engineer role. Required: HTML, UI, UX. Responsibilities: implement features, optimize performance. Experience required: 9 years.",Frontend Engineer
+Frontend Engineer - Senior,"Frontend Engineer role. Required: UX, CSS, JavaScript. Responsibilities: implement features, optimize performance. Experience required: 4 years.",Frontend Engineer
+Python Developer - II,"Python Developer role. Required: Flask, PostgreSQL, REST. Responsibilities: deploy services, implement features. Experience required: 3 years.",Python Developer
+ML Engineer - II,"ML Engineer role. Required: PyTorch, model deployment, feature engineering. Responsibilities: optimize performance, implement features. Experience required: 5 years.",ML Engineer
+Data Analyst - I,"Data Analyst role. Required: Excel, BI, Tableau. Responsibilities: write tests, implement features. Experience required: 8 years.",Data Analyst
+Data Analyst - Lead,"Data Analyst role. Required: data cleaning, SQL, Tableau. Responsibilities: implement features, collaborate with team. Experience required: 10 years.",Data Analyst
+Python Developer - Intern,"Python Developer role. Required: Python, REST, Django. Responsibilities: implement features, deploy services. Experience required: 3 years.",Python Developer
+Python Developer - Lead,"Python Developer role. Required: APIs, Flask, Python. Responsibilities: optimize performance, write tests. Experience required: 8 years.",Python Developer
+Data Scientist - Senior,"Data Scientist role. Required: visualization, pandas, scikit-learn. Responsibilities: implement features, write tests. Experience required: 1 years.",Data Scientist
+Data Analyst - Lead,"Data Analyst role. Required: SQL, data cleaning, reporting. Responsibilities: write tests, implement features. Experience required: 9 years.",Data Analyst
+Data Analyst - Intern,"Data Analyst role. Required: data cleaning, BI, Excel. Responsibilities: deploy services, optimize performance. Experience required: 8 years.",Data Analyst
+SDE - Intern,"SDE role. Required: Node.js, data structures, algorithms. Responsibilities: optimize performance, implement features. Experience required: 10 years.",SDE
+DevOps Engineer - Intern,"DevOps Engineer role. Required: monitoring, CI/CD, Kubernetes. Responsibilities: collaborate with team, implement features. Experience required: 9 years.",DevOps Engineer
+QA Engineer - Intern,"QA Engineer role. Required: Selenium, test automation, unit tests. Responsibilities: deploy services, collaborate with team. Experience required: 7 years.",QA Engineer
+DevOps Engineer - I,"DevOps Engineer role. Required: AWS, Docker, monitoring. Responsibilities: deploy services, deploy services. Experience required: 1 years.",DevOps Engineer
+QA Engineer - Lead,"QA Engineer role. Required: test automation, bug tracking, testing. Responsibilities: deploy services, optimize performance. Experience required: 1 years.",QA Engineer
+Data Analyst - II,"Data Analyst role. Required: data cleaning, Tableau, BI. Responsibilities: deploy services, implement features. Experience required: 4 years.",Data Analyst
+Data Scientist - II,"Data Scientist role. Required: SQL, visualization, R. Responsibilities: collaborate with team, optimize performance. Experience required: 8 years.",Data Scientist
+Python Developer - I,"Python Developer role. Required: APIs, PostgreSQL, Flask. Responsibilities: implement features, write tests. Experience required: 9 years.",Python Developer
+Data Scientist - II,"Data Scientist role. Required: Python, SQL, statistics. Responsibilities: collaborate with team, implement features. Experience required: 9 years.",Data Scientist
+DevOps Engineer - Lead,"DevOps Engineer role. Required: infrastructure, Docker, monitoring. Responsibilities: write tests, deploy services. Experience required: 6 years.",DevOps Engineer
+ML Engineer - II,"ML Engineer role. Required: feature engineering, ML pipelines, model deployment. Responsibilities: implement features, deploy services. Experience required: 10 years.",ML Engineer
+Data Analyst - Intern,"Data Analyst role. Required: Excel, data cleaning, reporting. Responsibilities: implement features, optimize performance. Experience required: 5 years.",Data Analyst
+Frontend Engineer - Senior,"Frontend Engineer role. Required: UX, UI, TypeScript. Responsibilities: deploy services, write tests. Experience required: 2 years.",Frontend Engineer
+QA Engineer - Senior,"QA Engineer role. Required: test automation, testing, bug tracking. Responsibilities: collaborate with team, write tests. Experience required: 9 years.",QA Engineer
+Frontend Engineer - Lead,"Frontend Engineer role. Required: TypeScript, HTML, UI. Responsibilities: optimize performance, deploy services. Experience required: 8 years.",Frontend Engineer
+SDE - I,"SDE role. Required: Java, REST APIs, Node.js. Responsibilities: collaborate with team, collaborate with team. Experience required: 1 years.",SDE
+SDE - Intern,"SDE role. Required: system design, algorithms, Java. Responsibilities: optimize performance, implement features. Experience required: 2 years.",SDE
+Data Analyst - Senior,"Data Analyst role. Required: data cleaning, reporting, Excel. Responsibilities: collaborate with team, collaborate with team. Experience required: 10 years.",Data Analyst
+ML Engineer - II,"ML Engineer role. Required: PyTorch, feature engineering, ML pipelines. Responsibilities: write tests, deploy services. Experience required: 10 years.",ML Engineer
+Data Analyst - Intern,"Data Analyst role. Required: BI, data cleaning, Tableau. Responsibilities: optimize performance, write tests. Experience required: 9 years.",Data Analyst
+SDE - Intern,"SDE role. Required: Spring, C++, Node.js. Responsibilities: optimize performance, deploy services. Experience required: 5 years.",SDE
+SDE - I,"SDE role. Required: Spring, Java, data structures. Responsibilities: collaborate with team, write tests. Experience required: 2 years.",SDE
+QA Engineer - Intern,"QA Engineer role. Required: unit tests, bug tracking, testing. Responsibilities: optimize performance, deploy services. Experience required: 7 years.",QA Engineer
+Python Developer - Senior,"Python Developer role. Required: Django, APIs, PostgreSQL. Responsibilities: deploy services, write tests. Experience required: 4 years.",Python Developer
+ML Engineer - Intern,"ML Engineer role. Required: Docker, ML pipelines, PyTorch. Responsibilities: implement features, write tests. Experience required: 3 years.",ML Engineer
+Data Analyst - Intern,"Data Analyst role. Required: Tableau, Excel, BI. Responsibilities: collaborate with team, collaborate with team. Experience required: 5 years.",Data Analyst
+Data Scientist - Senior,"Data Scientist role. Required: scikit-learn, R, Python. Responsibilities: collaborate with team, optimize performance. Experience required: 5 years.",Data Scientist
+SDE - Lead,"SDE role. Required: system design, algorithms, Node.js. Responsibilities: collaborate with team, write tests. Experience required: 4 years.",SDE
+QA Engineer - II,"QA Engineer role. Required: bug tracking, testing, Selenium. Responsibilities: collaborate with team, collaborate with team. Experience required: 9 years.",QA Engineer
+ML Engineer - II,"ML Engineer role. Required: ML pipelines, feature engineering, PyTorch. Responsibilities: write tests, optimize performance. Experience required: 3 years.",ML Engineer
+DevOps Engineer - Lead,"DevOps Engineer role. Required: Kubernetes, Docker, monitoring. Responsibilities: optimize performance, deploy services. Experience required: 1 years.",DevOps Engineer
+SDE - I,"SDE role. Required: C++, data structures, Node.js. Responsibilities: deploy services, write tests. Experience required: 6 years.",SDE
+Data Analyst - Senior,"Data Analyst role. Required: BI, SQL, reporting. Responsibilities: optimize performance, write tests. Experience required: 9 years.",Data Analyst
+QA Engineer - Senior,"QA Engineer role. Required: unit tests, bug tracking, Selenium. Responsibilities: collaborate with team, write tests. Experience required: 8 years.",QA Engineer
+Data Scientist - I,"Data Scientist role. Required: pandas, visualization, statistics. Responsibilities: implement features, deploy services. Experience required: 8 years.",Data Scientist
+QA Engineer - Intern,"QA Engineer role. Required: test automation, Selenium, testing. Responsibilities: implement features, optimize performance. Experience required: 3 years.",QA Engineer
+Data Scientist - I,"Data Scientist role. Required: Python, visualization, scikit-learn. Responsibilities: collaborate with team, collaborate with team. Experience required: 8 years.",Data Scientist
+ML Engineer - Lead,"ML Engineer role. Required: model deployment, TensorFlow, PyTorch. Responsibilities: deploy services, collaborate with team. Experience required: 6 years.",ML Engineer
+QA Engineer - II,"QA Engineer role. Required: bug tracking, unit tests, test automation. Responsibilities: optimize performance, optimize performance. Experience required: 2 years.",QA Engineer
+Data Scientist - II,"Data Scientist role. Required: Python, R, SQL. Responsibilities: collaborate with team, deploy services. Experience required: 7 years.",Data Scientist
+Data Analyst - I,"Data Analyst role. Required: reporting, Tableau, data cleaning. Responsibilities: deploy services, collaborate with team. Experience required: 5 years.",Data Analyst
+ML Engineer - I,"ML Engineer role. Required: ML pipelines, PyTorch, feature engineering. Responsibilities: write tests, write tests. Experience required: 4 years.",ML Engineer
+QA Engineer - Lead,"QA Engineer role. Required: testing, Selenium, test automation. Responsibilities: write tests, optimize performance. Experience required: 4 years.",QA Engineer
+Data Analyst - Lead,"Data Analyst role. Required: SQL, reporting, Excel. Responsibilities: write tests, write tests. Experience required: 8 years.",Data Analyst
+Data Scientist - Senior,"Data Scientist role. Required: pandas, SQL, visualization. Responsibilities: implement features, write tests. Experience required: 10 years.",Data Scientist
+Data Scientist - I,"Data Scientist role. Required: scikit-learn, statistics, visualization. Responsibilities: implement features, deploy services. Experience required: 9 years.",Data Scientist
+SDE - Senior,"SDE role. Required: REST APIs, Spring, system design. Responsibilities: collaborate with team, deploy services. Experience required: 3 years.",SDE
+SDE - Lead,"SDE role. Required: data structures, REST APIs, Spring. Responsibilities: implement features, optimize performance. Experience required: 9 years.",SDE
+QA Engineer - II,"QA Engineer role. Required: test automation, unit tests, Selenium. Responsibilities: deploy services, implement features. Experience required: 8 years.",QA Engineer
+Python Developer - Senior,"Python Developer role. Required: APIs, Django, PostgreSQL. Responsibilities: implement features, deploy services. Experience required: 4 years.",Python Developer
+ML Engineer - Senior,"ML Engineer role. Required: Docker, model deployment, TensorFlow. Responsibilities: optimize performance, implement features. Experience required: 3 years.",ML Engineer
+DevOps Engineer - II,"DevOps Engineer role. Required: infrastructure, Kubernetes, Docker. Responsibilities: implement features, deploy services. Experience required: 2 years.",DevOps Engineer
+Data Analyst - Intern,"Data Analyst role. Required: data cleaning, Tableau, SQL. Responsibilities: collaborate with team, implement features. Experience required: 4 years.",Data Analyst
+Data Analyst - Intern,"Data Analyst role. Required: reporting, BI, Tableau. Responsibilities: write tests, collaborate with team. Experience required: 6 years.",Data Analyst
+Python Developer - Lead,"Python Developer role. Required: Python, Flask, Django. Responsibilities: implement features, optimize performance. Experience required: 5 years.",Python Developer
+Python Developer - Senior,"Python Developer role. Required: PostgreSQL, Django, REST. Responsibilities: write tests, deploy services. Experience required: 5 years.",Python Developer
+Data Scientist - Intern,"Data Scientist role. Required: scikit-learn, statistics, Python. Responsibilities: write tests, collaborate with team. Experience required: 9 years.",Data Scientist
+ML Engineer - I,"ML Engineer role. Required: PyTorch, model deployment, TensorFlow. Responsibilities: implement features, optimize performance. Experience required: 10 years.",ML Engineer
+Python Developer - II,"Python Developer role. Required: APIs, Django, Flask. Responsibilities: implement features, optimize performance. Experience required: 10 years.",Python Developer
+Python Developer - Senior,"Python Developer role. Required: REST, Python, Flask. Responsibilities: implement features, write tests. Experience required: 5 years.",Python Developer
+Frontend Engineer - Intern,"Frontend Engineer role. Required: CSS, TypeScript, UI. Responsibilities: optimize performance, collaborate with team. Experience required: 5 years.",Frontend Engineer
+Python Developer - Intern,"Python Developer role. Required: PostgreSQL, Django, APIs. Responsibilities: implement features, implement features. Experience required: 8 years.",Python Developer
+QA Engineer - Intern,"QA Engineer role. Required: test automation, testing, bug tracking. Responsibilities: implement features, deploy services. Experience required: 2 years.",QA Engineer
+Data Scientist - Lead,"Data Scientist role. Required: Python, scikit-learn, R. Responsibilities: implement features, deploy services. Experience required: 8 years.",Data Scientist
+QA Engineer - Lead,"QA Engineer role. Required: testing, bug tracking, unit tests. Responsibilities: optimize performance, implement features. Experience required: 1 years.",QA Engineer
+ML Engineer - II,"ML Engineer role. Required: model deployment, Docker, ML pipelines. Responsibilities: write tests, collaborate with team. Experience required: 3 years.",ML Engineer
+ML Engineer - Intern,"ML Engineer role. Required: TensorFlow, PyTorch, Docker. Responsibilities: collaborate with team, collaborate with team. Experience required: 1 years.",ML Engineer
+SDE - Lead,"SDE role. Required: C++, system design, Spring. Responsibilities: write tests, write tests. Experience required: 1 years.",SDE
+Data Scientist - Intern,"Data Scientist role. Required: SQL, visualization, pandas. Responsibilities: write tests, collaborate with team. Experience required: 2 years.",Data Scientist
